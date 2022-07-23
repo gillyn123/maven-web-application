@@ -38,7 +38,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+14438573675,
 		bate123@gmail.com
 		<br>
-		<a href="mailto:Batetech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:Batetech@gmail.com">Mail to Bate Technologies</a>
 	</span>
 </div>
 <hr>
