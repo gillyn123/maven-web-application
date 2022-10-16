@@ -33,7 +33,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/myBatelogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Bates Technology, 
+                Bate and Mary Technology, 
 		Houston, Texas, USA
 		+14438573675,
 		bate123@gmail.com
