@@ -22,7 +22,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://44.201.199.132:9000/</sonar.host.url>
+		<sonar.host.url>http://3.86.239.187:9000/</sonar.host.url>
 		<sonar.login>squ_6f555a12c962115c063d7febd76cafd67ec19b4e</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.84.252.131:8081/repository/paypal2/</url>
+	      <url>http://3.89.74.176:8081/repository/paypal2/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.84.252.131:8081/repository/paypal1/</url>
+	      <url>http://3.89.74.176:8081/repository/paypal1/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
