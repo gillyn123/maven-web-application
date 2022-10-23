@@ -22,7 +22,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http:/44.211.133.27:9000/</sonar.host.url>
+		<sonar.host.url>http://44.202.23.118:9000/</sonar.host.url>
 		<sonar.login>squ_6f555a12c962115c063d7febd76cafd67ec19b4e</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.88.168.214:8081/repository/walmart/</url>
+	      <url>http://44.203.174.115:8081/repository/walmart/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.88.168.214:8081/repository/walmart-snapshot/</url>
+	      <url>http://44.203.174.115:8081/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
